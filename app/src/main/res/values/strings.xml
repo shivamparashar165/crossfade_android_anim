@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GFG App</string>
+    <string name="go_to_main_activity">GO TO MAIN ACTIVITY</string>
+    <string name="go_to_second_activity">GO TO SECOND ACTIVITY</string>
+</resources>
